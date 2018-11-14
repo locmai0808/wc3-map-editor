@@ -1,4 +1,4 @@
-# ECS160Tools
+# WC3MapEditor
 
 ## Usage
 Check the bin directory for compiled packages.
