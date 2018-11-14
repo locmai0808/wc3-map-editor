@@ -1,0 +1,7 @@
+build-MapEditor*
+
+MapEditor/icons/Thumbs.db
+
+MapEditor/MapEditor.pro.user*
+
+*.o

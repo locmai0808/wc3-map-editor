@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../data/default/upg/Armor2.dat</file>
+        <file>../data/default/upg/Armor3.dat</file>
+        <file>../data/default/upg/Arrow2.dat</file>
+        <file>../data/default/upg/Arrow3.dat</file>
+        <file>../data/default/upg/Knight.dat</file>
+        <file>../data/default/upg/Longbow.dat</file>
+        <file>../data/default/upg/Marksmanship.dat</file>
+        <file>../data/default/upg/Ranger.dat</file>
+        <file>../data/default/upg/Scouting.dat</file>
+        <file>../data/default/upg/Weapon2.dat</file>
+        <file>../data/default/upg/Weapon3.dat</file>
+    </qresource>
+</RCC>

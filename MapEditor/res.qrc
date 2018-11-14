@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../data/default/res/Archer.dat</file>
+        <file>../data/default/res/Barracks.dat</file>
+        <file>../data/default/res/Blacksmith.dat</file>
+        <file>../data/default/res/CannonTower.dat</file>
+        <file>../data/default/res/Castle.dat</file>
+        <file>../data/default/res/Farm.dat</file>
+        <file>../data/default/res/Footman.dat</file>
+        <file>../data/default/res/GoldMine.dat</file>
+        <file>../data/default/res/GuardTower.dat</file>
+        <file>../data/default/res/Keep.dat</file>
+        <file>../data/default/res/Knight.dat</file>
+        <file>../data/default/res/LumberMill.dat</file>
+        <file>../data/default/res/Peasant.dat</file>
+        <file>../data/default/res/Ranger.dat</file>
+        <file>../data/default/res/ScoutTower.dat</file>
+        <file>../data/default/res/TownHall.dat</file>
+    </qresource>
+</RCC>
